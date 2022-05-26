@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Aller_Rg';
+    src: url("../fonts/Aller_Rg.ttf")
+    format("truetype");
+}
+@font-face {
+    font-family: "Aller";
+    src: url("../fonts/Aller.ttf")
+    format("truetype");
+}
+@font-face {
+    font-family: "swera_regular_demo";
+    src: url("../fonts/Swera\ Regular\ Demo.otf") 
+    format("opentype");
+}
+h5{
+    font-family: "swera_regular_demo";
+}
+p{
+    font-family: "Aller";
+}
+body{
+    background-color: #cacaca;
+}
+
+
+
+#welcome_pic{
+    background-image: url("../images/paper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 600px;
+    background-position: center center;
+    display: none;
+    
+   }
+
+#welcome_message {
+    text-align: center;
+    font-size: 25px;
+    font-family: auto;
+    position: absolute;
+    left: 38%;
+    top: 330px;
+   
+}
+
+   
+   .card{
+       background-color: transparent;
+       top:400px
+   }
+   .card-img-top {
+       width: 10%;
+   }
+
+   .card-img-top{
+       align-self: center;
+   }
+
+
+   #back_end_view_details_button{
+       margin-top:6px;
+   }
+
+
+ 

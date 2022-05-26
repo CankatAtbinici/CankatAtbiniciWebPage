@@ -1,0 +1,46 @@
+
+#welcome_dijital_execute_page{
+    background-image: url("https://www.digital-glossary.com/uploads/terim/big_20201110132426.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: none;
+}
+
+
+#ads_area_front_page{
+    min-height: 600px;
+    background-color: #9393dc91;
+  
+}
+#digital_world_message p{
+    font-size: 50px;
+    z-index: 3;
+}
+#digital_world_message{
+    left: 32%;
+    top: 37%;
+    position: absolute;
+    color: wheat;
+    font-family: fantasy;
+}
+#consultant_contact_me_div{
+    background-color: blue;
+    min-height: 60px;
+}
+#consultant_contact_me_div p{
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+#consultant_contact_me_div p a{
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+#digital_execute_card1{
+    display: none;
+}
+
+
+
