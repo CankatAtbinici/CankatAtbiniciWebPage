@@ -62,6 +62,12 @@ body{
    #back_end_view_details_button{
        margin-top:6px;
    }
+   .card-title{
+       text-align: center;
+   }
+   .card-text{
+       text-align: center;
+   }
 
 
  
